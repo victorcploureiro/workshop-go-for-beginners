@@ -28,3 +28,5 @@ func main() {
 		fmt.Println("Ganhador: ", i, " ", )
 	}
 }
+
+// https://github.com/reneepc/workshop-go-for-beginners repositorio de como deveria ser
